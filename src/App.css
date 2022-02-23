@@ -32,6 +32,16 @@ input:checked + label{
   text-decoration:line-through;
 }
 
+.list{
+  background-color: rgb(212, 212, 189);
+  border: 2px solid rgb(168, 168, 152);
+  width: 20%;
+  margin: 3vw auto;
+  padding: 2%;
+  line-height: 1.5;
+ text-align: left;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
